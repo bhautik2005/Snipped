@@ -118,13 +118,7 @@ npm run dev
 
 Access the application at `http://localhost:5173`
 
-### Docker Deployment (Optional)
-
-```bash
-docker-compose up -d
-```
-
-This orchestrates all services with proper networking and environment configuration.
+ 
 
 ## API Documentation
 
@@ -194,9 +188,6 @@ npm run test:e2e  # Run end-to-end tests (if configured)
 
 Please ensure all tests pass and code follows the ESLint configuration before submitting.
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Contact
 
