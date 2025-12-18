@@ -2,10 +2,9 @@
 
 > A production-ready, service-oriented platform for managing code snippets with integrated social collaboration features.
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5+-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Express](https://img.shields.io/badge/Express-4+-000000?logo=express&logoColor=white)](https://expressjs.com/)
+ ![](https://github.com/bhautik2005/Snipped/blob/d6be79943facfcddd3d6c863351397a8d246ee45/Screenshot%202025-12-18%20160533.png)
+ ![](https://github.com/bhautik2005/Snipped/blob/d6be79943facfcddd3d6c863351397a8d246ee45/Screenshot%202025-12-18%20160446.png)
+ ![](https://github.com/bhautik2005/Snipped/blob/d6be79943facfcddd3d6c863351397a8d246ee45/Screenshot%202025-12-18%20155610.png)
 
 ## Overview
 
